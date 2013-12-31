@@ -14,96 +14,100 @@
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\maribel\documents\visual studio 2013\Projects\CatalogoArtistas\CatalogoArtistas\bin\Debug\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\maribel\Documents\GitHub\CART\CatalogoArtistas\CatalogoArtistas\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2013-12-31T19:57:27.907</Modified>
+      <Modified>2013-12-31T21:01:56.073</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\maribel\documents\visual studio 2013\Projects\CatalogoArtistas\CatalogoArtistas\bin\Debug\CatalogoArtistas.exe">
+    <AppxPackagedFile Include="C:\Users\maribel\Documents\GitHub\CART\CatalogoArtistas\CatalogoArtistas\bin\Debug\CatalogoArtistas.exe">
       <PackagePath>CatalogoArtistas.exe</PackagePath>
-      <Modified>2013-12-31T20:02:01.450</Modified>
+      <Modified>2013-12-31T21:18:39.846</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\maribel\documents\visual studio 2013\Projects\CatalogoArtistas\CatalogoArtistas\appicon.png">
+    <AppxPackagedFile Include="C:\Users\maribel\Documents\GitHub\CART\CatalogoArtistas\CatalogoArtistas\appicon.png">
       <PackagePath>appicon.png</PackagePath>
       <Modified>2013-12-27T13:19:56.048</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\maribel\documents\visual studio 2013\Projects\CatalogoArtistas\CatalogoArtistas\Assets\Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\maribel\Documents\GitHub\CART\CatalogoArtistas\CatalogoArtistas\Assets\Logo.scale-100.png">
       <PackagePath>Assets\Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2013-09-24T03:37:58.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\maribel\documents\visual studio 2013\Projects\CatalogoArtistas\CatalogoArtistas\Assets\SmallLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\maribel\Documents\GitHub\CART\CatalogoArtistas\CatalogoArtistas\Assets\SmallLogo.scale-100.png">
       <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2013-09-24T03:37:58.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\maribel\documents\visual studio 2013\Projects\CatalogoArtistas\CatalogoArtistas\Assets\SplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\maribel\Documents\GitHub\CART\CatalogoArtistas\CatalogoArtistas\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2013-09-24T03:37:58.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\maribel\documents\visual studio 2013\Projects\CatalogoArtistas\CatalogoArtistas\Assets\StoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\maribel\Documents\GitHub\CART\CatalogoArtistas\CatalogoArtistas\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2013-09-24T03:37:58.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\maribel\documents\visual studio 2013\Projects\CatalogoArtistas\CatalogoArtistas\imagenes\je.png">
+    <AppxPackagedFile Include="C:\Users\maribel\Documents\GitHub\CART\CatalogoArtistas\CatalogoArtistas\imagenes\je.png">
       <PackagePath>imagenes\je.png</PackagePath>
       <Modified>2013-12-31T15:49:44.241</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\maribel\documents\visual studio 2013\Projects\CatalogoArtistas\CatalogoArtistas\Assets\fondo1.jpg">
+    <AppxPackagedFile Include="C:\Users\maribel\Documents\GitHub\CART\CatalogoArtistas\CatalogoArtistas\Assets\fondo1.jpg">
       <PackagePath>Assets\fondo1.jpg</PackagePath>
       <Modified>2013-12-27T11:53:34.057</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\maribel\documents\visual studio 2013\Projects\CatalogoArtistas\CatalogoArtistas\imagenes\mundi.jpg">
+    <AppxPackagedFile Include="C:\Users\maribel\Documents\GitHub\CART\CatalogoArtistas\CatalogoArtistas\imagenes\mundi.jpg">
       <PackagePath>imagenes\mundi.jpg</PackagePath>
       <Modified>2013-12-31T15:12:32.220</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\maribel\documents\visual studio 2013\Projects\CatalogoArtistas\CatalogoArtistas\metadata.xml">
+    <AppxPackagedFile Include="C:\Users\maribel\Documents\GitHub\CART\CatalogoArtistas\CatalogoArtistas\metadata.xml">
       <PackagePath>metadata.xml</PackagePath>
       <Modified>2013-12-27T13:19:55.985</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\maribel\documents\visual studio 2013\Projects\CatalogoArtistas\CatalogoArtistas\Scripts\BingMap.1.1-min.js">
+    <AppxPackagedFile Include="C:\Users\maribel\Documents\GitHub\CART\CatalogoArtistas\CatalogoArtistas\Scripts\BingMap.1.1-min.js">
       <PackagePath>Scripts\BingMap.1.1-min.js</PackagePath>
       <Modified>2013-12-27T13:38:10.767</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\maribel\documents\visual studio 2013\Projects\CatalogoArtistas\CatalogoArtistas\Scripts\modernizr-2.7.1.js">
+    <AppxPackagedFile Include="C:\Users\maribel\Documents\GitHub\CART\CatalogoArtistas\CatalogoArtistas\Scripts\modernizr-2.7.1.js">
       <PackagePath>Scripts\modernizr-2.7.1.js</PackagePath>
       <Modified>2013-12-27T13:27:13.321</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\maribel\documents\visual studio 2013\Projects\CatalogoArtistas\CatalogoArtistas\Scripts\VeJavaScriptIntellisenseHelper.js">
+    <AppxPackagedFile Include="C:\Users\maribel\Documents\GitHub\CART\CatalogoArtistas\CatalogoArtistas\Scripts\VeJavaScriptIntellisenseHelper.js">
       <PackagePath>Scripts\VeJavaScriptIntellisenseHelper.js</PackagePath>
       <Modified>2013-12-27T13:38:03.871</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\maribel\documents\visual studio 2013\Projects\CatalogoArtistas\CatalogoArtistas\bin\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\maribel\Documents\GitHub\CART\CatalogoArtistas\CatalogoArtistas\bin\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2013-12-31T19:57:27.442</Modified>
+      <Modified>2013-12-31T20:58:23.382</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\maribel\documents\visual studio 2013\Projects\CatalogoArtistas\CatalogoArtistas\bin\Debug\Estilos\Style.xbf">
+    <AppxPackagedFile Include="C:\Users\maribel\Documents\GitHub\CART\CatalogoArtistas\CatalogoArtistas\bin\Debug\Estilos\Style.xbf">
       <PackagePath>Estilos\Style.xbf</PackagePath>
-      <Modified>2013-12-31T19:57:27.446</Modified>
+      <Modified>2013-12-31T20:58:23.386</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\maribel\documents\visual studio 2013\Projects\CatalogoArtistas\CatalogoArtistas\bin\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\maribel\Documents\GitHub\CART\CatalogoArtistas\CatalogoArtistas\bin\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2013-12-31T20:02:01.162</Modified>
+      <Modified>2013-12-31T21:15:16.185</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\maribel\documents\visual studio 2013\Projects\CatalogoArtistas\CatalogoArtistas\bin\Debug\windows\Artista.xbf">
+    <AppxPackagedFile Include="C:\Users\maribel\Documents\GitHub\CART\CatalogoArtistas\CatalogoArtistas\bin\Debug\prueba.xbf">
+      <PackagePath>prueba.xbf</PackagePath>
+      <Modified>2013-12-31T21:15:16.185</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\maribel\Documents\GitHub\CART\CatalogoArtistas\CatalogoArtistas\bin\Debug\windows\Artista.xbf">
       <PackagePath>windows\Artista.xbf</PackagePath>
-      <Modified>2013-12-31T20:01:23.363</Modified>
+      <Modified>2013-12-31T21:15:16.190</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\maribel\documents\visual studio 2013\Projects\CatalogoArtistas\CatalogoArtistas\bin\Debug\windows\compositores.xbf">
+    <AppxPackagedFile Include="C:\Users\maribel\Documents\GitHub\CART\CatalogoArtistas\CatalogoArtistas\bin\Debug\windows\compositores.xbf">
       <PackagePath>windows\compositores.xbf</PackagePath>
-      <Modified>2013-12-31T20:01:23.364</Modified>
+      <Modified>2013-12-31T20:58:23.391</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\maribel\documents\visual studio 2013\Projects\CatalogoArtistas\CatalogoArtistas\bin\Debug\windows\MapaMundi.xbf">
+    <AppxPackagedFile Include="C:\Users\maribel\Documents\GitHub\CART\CatalogoArtistas\CatalogoArtistas\bin\Debug\windows\MapaMundi.xbf">
       <PackagePath>windows\MapaMundi.xbf</PackagePath>
-      <Modified>2013-12-31T20:01:23.364</Modified>
+      <Modified>2013-12-31T20:58:23.391</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\maribel\documents\visual studio 2013\Projects\CatalogoArtistas\CatalogoArtistas\bin\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\maribel\Documents\GitHub\CART\CatalogoArtistas\CatalogoArtistas\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2013-12-31T19:57:27.829</Modified>
+      <Modified>2013-12-31T21:01:55.998</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

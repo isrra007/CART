@@ -7,13 +7,12 @@
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     mc:Ignorable="d">
 
-    <Grid>
+    <Grid Name="presentacion">
         <Grid.Background>
             <ImageBrush ImageSource="Assets/fondo1.jpg"/>
         </Grid.Background>
         <TextBlock Text="MUSICA" FontSize="100" HorizontalAlignment="Center" 
                    VerticalAlignment="Bottom" Margin="-1,0,0,0" 
-                  
                   Foreground="White" />
 
     </Grid>

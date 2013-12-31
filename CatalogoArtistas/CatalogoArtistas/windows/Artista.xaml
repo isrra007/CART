@@ -20,14 +20,14 @@
                 <RowDefinition Height="*"/>
                
             </Grid.RowDefinitions>
-            <ListView Grid.Row="2" >
-            <ToggleButton Background="Transparent" Grid.Row="2">
+            <StackPanel Grid.Row="2" Orientation="Horizontal">
+            <Button Background="Transparent" Grid.Row="2">
                     <TextBlock Text="BIOGRAFIA"  FontSize="20"/>
-                </ToggleButton>
-            <ToggleButton Background="Transparent" Grid.Row="2">
+                </Button>
+            <Button Background="Transparent" Grid.Row="2">
                 <TextBlock Text="DISCOGRAFIA"  FontSize="20"/>
-            </ToggleButton>
-            </ListView>
+            </Button>
+            </StackPanel>
             <StackPanel Grid.Row="3" Margin="20,40,0,0" >
 
                 <StackPanel Orientation="Horizontal" Margin="10">

@@ -12,6 +12,7 @@ using Windows.UI.Xaml.Data;
 using Windows.UI.Xaml.Input;
 using Windows.UI.Xaml.Media;
 using Windows.UI.Xaml.Navigation;
+using CatalogoArtistas.windows;
 
 // La plantilla de elemento Página en blanco está documentada en http://go.microsoft.com/fwlink/?LinkId=234238
 
@@ -25,6 +26,20 @@ namespace CatalogoArtistas
         public MainPage()
         {
             this.InitializeComponent();
+            presentacion.Tapped += presentacion_Tapped;
+            
         }
+
+        void presentacion_Tapped(object sender, TappedRoutedEventArgs e)
+        {
+           
+            Frame.Navigate(typeof(CatalogoArtistas.windows.compositores));
+        }
+        protected override void OnNavigatedTo(NavigationEventArgs e)
+        {
+            base.OnNavigatedTo(e);
+            
+        }
+
     }
 }

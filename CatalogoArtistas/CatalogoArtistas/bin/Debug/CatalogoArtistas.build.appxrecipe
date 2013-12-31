@@ -8,74 +8,77 @@
     <PackageIdentityName>55273e9c-0328-45f4-b2e7-28e140f0c898</PackageIdentityName>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\maribel\documents\visual studio 2013\Projects\CatalogoArtistas\CatalogoArtistas\bin\Debug\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\maribel\Documents\GitHub\CART\CatalogoArtistas\CatalogoArtistas\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\maribel\documents\visual studio 2013\Projects\CatalogoArtistas\CatalogoArtistas\bin\Debug\CatalogoArtistas.exe">
+    <AppxPackagedFile Include="C:\Users\maribel\Documents\GitHub\CART\CatalogoArtistas\CatalogoArtistas\bin\Debug\CatalogoArtistas.exe">
       <PackagePath>CatalogoArtistas.exe</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\maribel\documents\visual studio 2013\Projects\CatalogoArtistas\CatalogoArtistas\appicon.png">
+    <AppxPackagedFile Include="C:\Users\maribel\Documents\GitHub\CART\CatalogoArtistas\CatalogoArtistas\appicon.png">
       <PackagePath>appicon.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\maribel\documents\visual studio 2013\Projects\CatalogoArtistas\CatalogoArtistas\Assets\Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\maribel\Documents\GitHub\CART\CatalogoArtistas\CatalogoArtistas\Assets\Logo.scale-100.png">
       <PackagePath>Assets\Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\maribel\documents\visual studio 2013\Projects\CatalogoArtistas\CatalogoArtistas\Assets\SmallLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\maribel\Documents\GitHub\CART\CatalogoArtistas\CatalogoArtistas\Assets\SmallLogo.scale-100.png">
       <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\maribel\documents\visual studio 2013\Projects\CatalogoArtistas\CatalogoArtistas\Assets\SplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\maribel\Documents\GitHub\CART\CatalogoArtistas\CatalogoArtistas\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\maribel\documents\visual studio 2013\Projects\CatalogoArtistas\CatalogoArtistas\Assets\StoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\maribel\Documents\GitHub\CART\CatalogoArtistas\CatalogoArtistas\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\maribel\documents\visual studio 2013\Projects\CatalogoArtistas\CatalogoArtistas\imagenes\je.png">
+    <AppxPackagedFile Include="C:\Users\maribel\Documents\GitHub\CART\CatalogoArtistas\CatalogoArtistas\imagenes\je.png">
       <PackagePath>imagenes\je.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\maribel\documents\visual studio 2013\Projects\CatalogoArtistas\CatalogoArtistas\Assets\fondo1.jpg">
+    <AppxPackagedFile Include="C:\Users\maribel\Documents\GitHub\CART\CatalogoArtistas\CatalogoArtistas\Assets\fondo1.jpg">
       <PackagePath>Assets\fondo1.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\maribel\documents\visual studio 2013\Projects\CatalogoArtistas\CatalogoArtistas\imagenes\mundi.jpg">
+    <AppxPackagedFile Include="C:\Users\maribel\Documents\GitHub\CART\CatalogoArtistas\CatalogoArtistas\imagenes\mundi.jpg">
       <PackagePath>imagenes\mundi.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\maribel\documents\visual studio 2013\Projects\CatalogoArtistas\CatalogoArtistas\metadata.xml">
+    <AppxPackagedFile Include="C:\Users\maribel\Documents\GitHub\CART\CatalogoArtistas\CatalogoArtistas\metadata.xml">
       <PackagePath>metadata.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\maribel\documents\visual studio 2013\Projects\CatalogoArtistas\CatalogoArtistas\Scripts\BingMap.1.1-min.js">
+    <AppxPackagedFile Include="C:\Users\maribel\Documents\GitHub\CART\CatalogoArtistas\CatalogoArtistas\Scripts\BingMap.1.1-min.js">
       <PackagePath>Scripts\BingMap.1.1-min.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\maribel\documents\visual studio 2013\Projects\CatalogoArtistas\CatalogoArtistas\Scripts\modernizr-2.7.1.js">
+    <AppxPackagedFile Include="C:\Users\maribel\Documents\GitHub\CART\CatalogoArtistas\CatalogoArtistas\Scripts\modernizr-2.7.1.js">
       <PackagePath>Scripts\modernizr-2.7.1.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\maribel\documents\visual studio 2013\Projects\CatalogoArtistas\CatalogoArtistas\Scripts\VeJavaScriptIntellisenseHelper.js">
+    <AppxPackagedFile Include="C:\Users\maribel\Documents\GitHub\CART\CatalogoArtistas\CatalogoArtistas\Scripts\VeJavaScriptIntellisenseHelper.js">
       <PackagePath>Scripts\VeJavaScriptIntellisenseHelper.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\maribel\documents\visual studio 2013\Projects\CatalogoArtistas\CatalogoArtistas\bin\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\maribel\Documents\GitHub\CART\CatalogoArtistas\CatalogoArtistas\bin\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\maribel\documents\visual studio 2013\Projects\CatalogoArtistas\CatalogoArtistas\bin\Debug\Estilos\Style.xbf">
+    <AppxPackagedFile Include="C:\Users\maribel\Documents\GitHub\CART\CatalogoArtistas\CatalogoArtistas\bin\Debug\Estilos\Style.xbf">
       <PackagePath>Estilos\Style.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\maribel\documents\visual studio 2013\Projects\CatalogoArtistas\CatalogoArtistas\bin\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\maribel\Documents\GitHub\CART\CatalogoArtistas\CatalogoArtistas\bin\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\maribel\documents\visual studio 2013\Projects\CatalogoArtistas\CatalogoArtistas\bin\Debug\windows\Artista.xbf">
+    <AppxPackagedFile Include="C:\Users\maribel\Documents\GitHub\CART\CatalogoArtistas\CatalogoArtistas\bin\Debug\prueba.xbf">
+      <PackagePath>prueba.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\maribel\Documents\GitHub\CART\CatalogoArtistas\CatalogoArtistas\bin\Debug\windows\Artista.xbf">
       <PackagePath>windows\Artista.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\maribel\documents\visual studio 2013\Projects\CatalogoArtistas\CatalogoArtistas\bin\Debug\windows\compositores.xbf">
+    <AppxPackagedFile Include="C:\Users\maribel\Documents\GitHub\CART\CatalogoArtistas\CatalogoArtistas\bin\Debug\windows\compositores.xbf">
       <PackagePath>windows\compositores.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\maribel\documents\visual studio 2013\Projects\CatalogoArtistas\CatalogoArtistas\bin\Debug\windows\MapaMundi.xbf">
+    <AppxPackagedFile Include="C:\Users\maribel\Documents\GitHub\CART\CatalogoArtistas\CatalogoArtistas\bin\Debug\windows\MapaMundi.xbf">
       <PackagePath>windows\MapaMundi.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\maribel\documents\visual studio 2013\Projects\CatalogoArtistas\CatalogoArtistas\bin\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\maribel\Documents\GitHub\CART\CatalogoArtistas\CatalogoArtistas\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>
