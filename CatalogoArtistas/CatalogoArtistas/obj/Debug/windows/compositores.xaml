@@ -1,0 +1,14 @@
+﻿<Page
+    x:Class="CatalogoArtistas.windows.compositores"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:CatalogoArtistas.windows"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="#FF3254A4">
+        <Image Source="/imagenes/je.png" Margin="-211,0,217,0" Opacity="0.7" />
+    </Grid>
+</Page>
+
